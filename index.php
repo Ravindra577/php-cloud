@@ -1,4 +1,4 @@
 <html>
 Hello from Cloud
-<?php echo exec('echo "server ipaddress is $(hostname -i) and server name is $(hostname)" '); ?>
+<?php echo exec('echo "Server Private IPAddress is $(hostname -i) and Server HostName is $(hostname)"'); ?>
 </html>
