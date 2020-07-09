@@ -1,6 +1,6 @@
 <html>
 Hello from Cloud
 <pre>
-'<?php ifconfig; ?>'
+<?php ifconfig; ?>
 </pre>
 </html>
