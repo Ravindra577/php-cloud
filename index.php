@@ -1,8 +1,6 @@
 <html>
 Hello from Cloud
 <pre>
-<?php
-print `ifconfig`;
-?>
+'<?php ifconfig; ?>'
 </pre>
 </html>
